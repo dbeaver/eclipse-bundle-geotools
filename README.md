@@ -1,0 +1,1 @@
+Minimized version of https://github.com/geotools/geotools
